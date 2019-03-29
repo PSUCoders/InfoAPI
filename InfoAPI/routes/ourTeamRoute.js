@@ -9,18 +9,18 @@ router.get("/ourTeam", function(req, res, next) {
       lname: "Reyes",
       founderStatus: "Co-Founder",
       position: "President",
-      personalWeb: "...",
-      github: "...",
-      linkedIn: "..."
+      personalWeb: "https://www.iamgonchi.com/",
+      github: "https://github.com/gonzen2310",
+      linkedIn: "https://www.linkedin.com/in/gonzalo-reyes/"
     },
     {
       fname: "Gaurav",
       lname: "Jayasawal",
       founderStatus: "Co-Founder",
       position: "Vice President",
-      personalWeb: "...",
-      github: "...",
-      linkedIn: "..."
+      personalWeb: "https://www.gauravjj.com/",
+      github: "https://github.com/jgaurav6",
+      linkedIn: "https://www.linkedin.com/in/gauravjj/"
     },
     {
       fname: "Keenan",
@@ -28,16 +28,16 @@ router.get("/ourTeam", function(req, res, next) {
       founderStatus: "Co-Founder",
       position: "PR Chair",
       personalWeb: "...",
-      github: "...",
-      linkedIn: "..."
+      github: "https://github.com/KeenanKunzelman",
+      linkedIn: "https://www.linkedin.com/in/keenankunzelman/"
     },
     {
       fname: "Hung",
       lname: "Nguyen",
       founderStatus: "Co-Founder",
       position: "Treasurer",
-      personalWeb: "...",
-      github: "...",
+      personalWeb: "https://hungs.dev/",
+      github: "https://github.com/nthungdev",
       linkedIn: "..."
     },
     {
@@ -46,8 +46,8 @@ router.get("/ourTeam", function(req, res, next) {
       founderStatus: "Co-Founder",
       position: "PR Chair",
       personalWeb: "...",
-      github: "...",
-      linkedIn: "..."
+      github: "https://github.com/rickyprev",
+      linkedIn: "https://www.linkedin.com/in/nthungdev/"
     },
     {
       fname: "Khanh",
@@ -55,8 +55,8 @@ router.get("/ourTeam", function(req, res, next) {
       founderStatus: "Co-Founder",
       position: "Secretary",
       personalWeb: "...",
-      github: "...",
-      linkedIn: "..."
+      github: "https://github.com/winkhanh",
+      linkedIn: "https://www.linkedin.com/in/khanh-le-5b1b7817a/"
     },
     {
       fname: "Michael",
@@ -64,7 +64,7 @@ router.get("/ourTeam", function(req, res, next) {
       founderStatus: "Co-Founder",
       position: "Avid Contributor",
       personalWeb: "...",
-      github: "...",
+      github: "https://github.com/MichaelGatesDev",
       linkedIn: "..."
     }
   );
