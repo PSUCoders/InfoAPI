@@ -65,7 +65,7 @@ router.get("/ourTeam", function(req, res, next) {
       position: "Avid Contributor",
       personalWeb: "...",
       github: "https://github.com/MichaelGatesDev",
-      linkedIn: "..."
+      linkedIn: "https://www.linkedin.com/in/michael-gates-867311182/"
     }
   );
 });
